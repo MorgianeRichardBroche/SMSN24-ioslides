@@ -1,0 +1,29 @@
+h2 {
+  font-size: 50px;
+}
+h3 {
+  font-size: 42px;
+}
+h4 {
+  font-size: 40px;
+}
+p, li, td {
+  font-size: 40px;
+}
+
+.gdbar img {
+  width: 390px !important;
+  height: 107px !important;
+  margin: 8px 8px;
+}
+
+.gdbar {
+  width: 430px !important;
+  height: 130px !important;
+}
+
+slides > slide:not(.nobackground):before {
+  width: 156px;
+  height: 43px;
+  background-size: 156px 43px;
+}
