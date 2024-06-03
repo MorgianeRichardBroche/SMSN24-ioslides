@@ -85,7 +85,7 @@ We ran  three anonymous online questionnaires (5 questions each, Likert scales a
 
 * Quantitative data were analysed with SPSS.
 
-* Qualitative data were analysed using Interpretative Phenomenological Analysis (IPA).
+* Qualitative data were analysed using Thematic Analysis (TA).
 
 * Class sizes: 44 and 22.
 
@@ -149,7 +149,7 @@ knitr::include_graphics("img/mean-score.png")
 
 # Qualitative Results
 
-## Students Say
+## Thematic Analysis Results
 
 * <p style="color:MidnightBlue;">About working in groups:</p>
 
@@ -171,7 +171,7 @@ knitr::include_graphics("img/mean-score.png")
   Legitimate peripheral participants in the community of practice (helps getting a broader view, encourages long-term learning, motivating and rewarding).
 </div>
 
-## Students Say
+## Thematic Analysis Results
 
 * <p style="color:MidnightBlue;">About assessing mathematical knowledge and ability:</p>
 
