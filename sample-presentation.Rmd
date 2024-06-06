@@ -77,7 +77,7 @@ We ran  three anonymous online questionnaires (5 questions each, Likert scales a
 
 * Q2: <font color="CornflowerBlue">week 11 of semester 1</font>, 
 
-* Q3: <font color="CornflowerBlue">week 7 of semester 7</font>,
+* Q3: <font color="CornflowerBlue">week 7 of semester 2</font>,
 
 * Focus group: <font color="CornflowerBlue">first exam week</font>.
 
