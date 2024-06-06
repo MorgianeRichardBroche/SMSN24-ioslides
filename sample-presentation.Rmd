@@ -79,7 +79,7 @@ We ran  three anonymous online questionnaires (5 questions each, Likert scales a
 
 * Q3: <font color="CornflowerBlue">week 7 of semester 2</font>,
 
-* Focus group: <font color="CornflowerBlue">first exam week</font>.
+* Focus group: <font color="CornflowerBlue">first exam week of semester 2</font>.
 
 ## Data Analysis {.flexbox .vcenter}
 
@@ -159,7 +159,7 @@ knitr::include_graphics("img/mean-score.png")
   Resilient learning community (mutual help and sharing of knowledge, frustration and intimidation, individual vs group identity)
 </div>
 
-* <p style="color:MidnightBlue;">About creating of exercises and solutions:</p>
+* <p style="color:MidnightBlue;">About creation of exercises and solutions:</p>
 
 <div class="centered">
   Zone of Proximal Development (helps deepening knowledge and understanding, stimulating, offers a broader view of maths)
